@@ -1,2 +1,2 @@
 # Demo
-This is the for education purpose only
+This is the for education purpose only.
